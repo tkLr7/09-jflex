@@ -1,0 +1,143 @@
+[0][0] public: Palavra reservada public.
+[0][6]  : Espaço em branco.
+[0][7] class: Palavra reservada class.
+[0][12]  : Espaço em branco.
+[0][13] Principal: Identificador.
+[0][22]  : Espaço em branco.
+[0][23] {: Abre chave.
+[0][24] 
+: Espaço em branco.
+[1][0]  : Espaço em branco.
+[1][1]  : Espaço em branco.
+[1][2]  : Espaço em branco.
+[1][3]  : Espaço em branco.
+[1][4] public: Palavra reservada public.
+[1][10]  : Espaço em branco.
+[1][11] static: Identificador.
+[1][17]  : Espaço em branco.
+[1][18] void: Palavra reservada void.
+[1][22]  : Espaço em branco.
+[1][23] main: Identificador.
+[1][27] (: Abre parêntese.
+[1][28] String: Identificador.
+[1][34] [: Abre colchete.
+[1][35] ]: Fecha colchete.
+[1][36]  : Espaço em branco.
+[1][37] args: Identificador.
+[1][41] ): Fecha parêntese.
+[1][42]  : Espaço em branco.
+[1][43] {: Abre chave.
+[1][44] 
+: Espaço em branco.
+[2][0]  : Espaço em branco.
+[2][1]  : Espaço em branco.
+[2][2]  : Espaço em branco.
+[2][3]  : Espaço em branco.
+[2][4]  : Espaço em branco.
+[2][5]  : Espaço em branco.
+[2][6]  : Espaço em branco.
+[2][7]  : Espaço em branco.
+[2][8] int: Palavra reservada int.
+[2][11] [: Abre colchete.
+[2][12] ]: Fecha colchete.
+[2][13]  : Espaço em branco.
+[2][14] numeros: Identificador.
+[2][21]  : Espaço em branco.
+[2][22] =: Atribuição.
+[2][23]  : Espaço em branco.
+[2][24] {: Abre chave.
+[2][25] 1: Número inteiro.
+[2][26] ,: Virgula.
+[2][27]  : Espaço em branco.
+[2][28] 2: Número inteiro.
+[2][29] ,: Virgula.
+[2][30]  : Espaço em branco.
+[2][31] 3: Número inteiro.
+[2][32] ,: Virgula.
+[2][33]  : Espaço em branco.
+[2][34] 4: Número inteiro.
+[2][35] ,: Virgula.
+[2][36]  : Espaço em branco.
+[2][37] 5: Número inteiro.
+[2][38] }: Fecha chave.
+[2][39] ;: Ponto e vírgula.
+[2][40] 
+: Espaço em branco.
+[3][0]  : Espaço em branco.
+[3][1]  : Espaço em branco.
+[3][2]  : Espaço em branco.
+[3][3]  : Espaço em branco.
+[3][4]  : Espaço em branco.
+[3][5]  : Espaço em branco.
+[3][6]  : Espaço em branco.
+[3][7]  : Espaço em branco.
+[3][8] 
+: Espaço em branco.
+[4][0]  : Espaço em branco.
+[4][1]  : Espaço em branco.
+[4][2]  : Espaço em branco.
+[4][3]  : Espaço em branco.
+[4][4]  : Espaço em branco.
+[4][5]  : Espaço em branco.
+[4][6]  : Espaço em branco.
+[4][7]  : Espaço em branco.
+[4][8] for: Palavra reservada for.
+[4][11]  : Espaço em branco.
+[4][12] (: Abre parêntese.
+[4][13] int: Palavra reservada int.
+[4][16]  : Espaço em branco.
+[4][17] numero: Identificador.
+[4][23]  : Espaço em branco.
+[4][24] :: Dois pontos.
+[4][25]  : Espaço em branco.
+[4][26] numeros: Identificador.
+[4][33] ): Fecha parêntese.
+[4][34]  : Espaço em branco.
+[4][35] {: Abre chave.
+[4][36] 
+: Espaço em branco.
+[5][0]  : Espaço em branco.
+[5][1]  : Espaço em branco.
+[5][2]  : Espaço em branco.
+[5][3]  : Espaço em branco.
+[5][4]  : Espaço em branco.
+[5][5]  : Espaço em branco.
+[5][6]  : Espaço em branco.
+[5][7]  : Espaço em branco.
+[5][8]  : Espaço em branco.
+[5][9]  : Espaço em branco.
+[5][10]  : Espaço em branco.
+[5][11]  : Espaço em branco.
+[5][12] System: Identificador.
+[5][18] .: Ponto.
+[5][19] out: Identificador.
+[5][22] .: Ponto.
+[5][23] println: Identificador.
+[5][30] (: Abre parêntese.
+[5][31] numero: Identificador.
+[5][37] ): Fecha parêntese.
+[5][38] ;: Ponto e vírgula.
+[5][39] 
+: Espaço em branco.
+[6][0]  : Espaço em branco.
+[6][1]  : Espaço em branco.
+[6][2]  : Espaço em branco.
+[6][3]  : Espaço em branco.
+[6][4]  : Espaço em branco.
+[6][5]  : Espaço em branco.
+[6][6]  : Espaço em branco.
+[6][7]  : Espaço em branco.
+[6][8] }: Fecha chave.
+[6][9]  : Espaço em branco.
+[6][10]  : Espaço em branco.
+[6][11]  : Espaço em branco.
+[6][12] 
+: Espaço em branco.
+[7][0]  : Espaço em branco.
+[7][1]  : Espaço em branco.
+[7][2]  : Espaço em branco.
+[7][3]  : Espaço em branco.
+[7][4] }: Fecha chave.
+[7][5] 
+: Espaço em branco.
+[8][0] }: Fecha chave.
